@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.js-one{
+ margin-left: 200px;
+ padding: 10px;
+}
+.js-one>p{
+    width: 90%;
+}

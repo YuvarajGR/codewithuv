@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.n-n{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 10px;
+}
+.note-one{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.note-two{
+    height: 280px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    display: flex;
+    margin: 40px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.note-two>button{
+    border: none;
+    width: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    margin:  0px 50px 0px ;
+    background-color: blueviolet;
+    color: white;
+    
+}
+.note-two>button:hover{
+    background-color: rgb(78, 78, 222);
+}

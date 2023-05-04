@@ -1,0 +1,61 @@
+[
+{
+    "img":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png",
+    "title":"CSS Notes",
+    "title1":"Download Notes Here",
+    "btn":"/css",
+    "btn1":""
+},
+{
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76VfeJHb0UEDbEDwIklW3cNuF-j1-j7PlfDPTOrms_g&usqp=CAU&ec=48600112",
+    "title":"Java Script Notes",
+    "title1":"Download Notes Here",
+    "btn":"/js",
+    "btn1":""
+},
+{
+    "img":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+    "title":"HTML Notes",
+    "title1":"Download Notes Here",
+    "btn":"/html",
+    "btn1":""
+
+},
+{
+    "img":"https://www.pngitem.com/pimgs/m/174-1746846_java-logo-hd-png-download.png",
+    "title":"Java Notes",
+    "title1":"Download Notes Here",
+    "btn":"/java",
+    "btn1":""
+},
+{
+    "img":"https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
+    "title":"C Notes",
+    "title1":"Download Notes Here",
+    "btn":"/c",
+    "btn1":""
+},
+{
+    "img":"https://www.pngitem.com/pimgs/m/713-7136382_python-logo-png-transparent-png.png",
+    "title":"Python Notes",
+    "title1":"Download Notes Here",
+    "btn":"/python",
+    "btn1":""
+    
+},
+{
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png",
+    "title":"PHP Notes",
+    "title1":"Download Notes Here",
+    "btn":"/php",
+    "btn1":""
+},
+
+{
+    "img":"https://ionicframework.com/docs/icons/logo-react-icon.png",
+    "title":"React JS Notes",
+    "title1":"download Notes Here",
+    "btn":"/react",
+    "btn1":""
+}
+]

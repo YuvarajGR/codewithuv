@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.maincard-one{
+display: flex;
+padding: 20px;
+justify-content: space-between;
+
+
+}
+.card{
+    margin-left: 20px;
+  height: 100%;
+  transition: ease-in-out 0.5s;
+}
+
+.card>iframe{
+height: 250px;
+width: 100%;
+
+
+}
+.card-body>button>a{
+    text-decoration: none;
+    color: rgb(247, 244, 244);
+    
+}
+.card-body>button{
+border: none;
+background-color: blue;
+border-radius: 10px;
+}
+.card-body>button:hover{
+background-color: rgb(60, 60, 213);
+}
+

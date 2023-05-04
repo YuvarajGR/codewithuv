@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.MuiInputBase-input .MuiInput-input .css-1x51dt5-MuiInputBase-input-MuiInput-input{
+    color: white !important;
+}
+::-webkit-input-placeholder{
+    color: white !important;
+}
+.login-one{
+    width: 100%;
+    height: 625px;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.login-box{
+    height: 70%;
+    width: 400px;
+   
+    
+    border-radius: 20px;
+}
+.input{
+    justify-content: center;
+    margin-left: 105px;
+    margin-top: 70px;
+}
+.input>h6{
+    color: red;
+}
+
+button.login-btn{
+    margin-top: 40px;
+    margin-left: 24px;
+
+   
+}
+.login-link{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+   
+}

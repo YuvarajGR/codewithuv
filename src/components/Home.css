@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.home-nav{
+    position: sticky;
+top:0;
+left: 0;
+right: 0;
+z-index: 100;
+}
+
+.con{
+    display: flex;
+    
+}
+.container{
+    height: 450px;
+    width: 40%;
+    border: 1px solid rgb(213, 209, 209);
+    padding: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    border-radius: 5px;
+    
+}
+.Home-content>h1{
+    color: black;
+}
+.Home-content>h1:hover{
+color:rgb(241, 73, 73);
+}
+h2{
+    color: rgb(181, 129, 231);
+}
+h2:hover{
+    color: rgb(44, 44, 223);
+}
+p{
+    color: rgb(73, 75, 75);
+}
+
+.Home-content{
+    margin-top: 50px;
+  
+}
+/* .Home-content.home-header{
+    color: black;
+    font-size: 100px;
+
+}
+.Home-content.home-moving{
+margin-left: 15px;
+}
+.home-moving li{
+    color: rebeccapurple;
+    list-style: none;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.home-moving li span{
+    position: relative;
+}
+.home-moving li span::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background:#000;
+    border-left: 2px solid rebeccapurple;
+    animation: typing 1.5 steps(10) infinite;
+
+}
+@keyframes typing{
+    100%{
+        left: 100%;
+        margin: 0 -35px 0 35px;
+    }
+}  */
+
+
+
+.Home-content p{
+    margin-top: 30px;
+}
+.Home-content p:hover{
+   color: rgb(215, 17, 129);
+}
+.Home-button{
+    padding: 50px;
+}
+
+button{
+    justify-content: space-between;
+    height: 40px;
+    width: 150px;
+    margin-right: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button:hover{
+ background-color: rgb(140, 138, 138);
+ border: none;
+}
+
+img{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-right: 15px;
+    margin-top: 12px;  
+}
+.img:hover{
+    background-color: rgba(0, 255, 255, 0.072);
+}

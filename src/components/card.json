@@ -1,0 +1,21 @@
+[{
+    "img":"https://www.youtube.com/embed/7wnove7K-ZQ",
+    "title":"Python Tutorials - 100 Days of Code",
+    "text":"Python is one of the most demanded programming languages in the job market. Surprisingly, it is equally easy to learn and master Python. Let's commit our 100 days of code to python",
+    "btn-name":""
+
+},
+{
+    "img":"https://www.youtube.com/embed/ER9SspLe4Hg",
+    "title":"Ultimate JavaScript Course",
+    "text":"This latest JavaScript course comes with premium curriculum that covers everything from basics to advance. On top of that, you will get my handwritten notes of JS for completely free. What are you waiting for? Just Enroll Buddy",
+    "btn-name":""
+
+},
+{
+    "img":"https://www.youtube.com/embed/-mJFZp84TIY",
+    "title":"React JS Tutorials For Beginners",
+    "text":"React is a free and open-source front-end JavaScript library. This series will cover React from starting to the end. We will learn react from the ground up",
+    "btn-name":""
+
+}]

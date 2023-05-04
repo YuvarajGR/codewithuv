@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.css-three{
+  margin-left: 200px;
+  padding: 10px;
+}
+.css-three>li{
+    width: 90%;
+}

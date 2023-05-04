@@ -1,0 +1,44 @@
+[{
+    "img":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+    "title":"HTML Tutorials",
+    "btn":"/html"
+
+},
+{
+    "img":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png",
+    "title":"CSS Tutorials",
+    "btn":"/css"
+},
+
+{
+    "img":"https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
+    "title":"C Tutorials",
+    "btn":"/c"
+},
+{
+    "img":"https://www.pngitem.com/pimgs/m/174-1746846_java-logo-hd-png-download.png",
+    "title":"Java Tutorials",
+    "btn":"/java"
+},
+{
+    "img":"https://www.pngitem.com/pimgs/m/713-7136382_python-logo-png-transparent-png.png",
+    "title":"Python Tutorials",
+    "btn":"/python"
+    
+},
+{
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png",
+    "title":"PHP Tutorials",
+    "btn":"/php"
+},
+{
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76VfeJHb0UEDbEDwIklW3cNuF-j1-j7PlfDPTOrms_g&usqp=CAU&ec=48600112",
+    "title":"Java Script Tutorials",
+    "btn":"/js"
+},
+{
+    "img":"https://ionicframework.com/docs/icons/logo-react-icon.png",
+    "title":"React JS Tutorials",
+    "btn":"/react"
+}
+]
